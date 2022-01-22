@@ -7,3 +7,10 @@ h1{
   color:#660000;
   font-size:90px;
  }
+p
+{
+  font-family:verdana;
+  font-weight:bold;
+  font-size:15px;
+  padding:5px;
+}
